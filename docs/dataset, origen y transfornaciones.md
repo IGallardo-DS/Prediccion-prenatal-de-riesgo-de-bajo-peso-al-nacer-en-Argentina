@@ -85,4 +85,4 @@ En el análisis inicial se identificaron **26.432 filas** con la categoría `9.S
 
 ## 7. Referencias
 
-- Fuente del Valor Objetivo. [Metas mundiales de nutrición 2025: documento normativo sobre bajo peso al nacer](https://www.who.int/es/publications/i/item/WHO-NMH-NHD-14.5).  
+- Fuente del Valor Objetivo: [Metas mundiales de nutrición 2025: documento normativo sobre bajo peso al nacer](https://www.who.int/es/publications/i/item/WHO-NMH-NHD-14.5).  
